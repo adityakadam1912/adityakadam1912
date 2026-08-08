@@ -3,7 +3,7 @@
 <a href="https://www.linkedin.com/in/aditya-kadam-a01762351?utm_source=share_via&utm_content=profile&utm_medium=member_android"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://www.instagram.com/aditya_kadam1912?igsh=dGVna3R2c29taDdy"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> <a href="mailto:adityakadamm1912@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 </div> <br/>
-## 👨‍💻 About Me
+👨‍💻 About Me
 
 ```yaml
 name: Aditya Kadam
