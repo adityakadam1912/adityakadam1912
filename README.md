@@ -3,18 +3,21 @@
 <a href="https://www.linkedin.com/in/aditya-kadam-a01762351?utm_source=share_via&utm_content=profile&utm_medium=member_android"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://www.instagram.com/aditya_kadam1912?igsh=dGVna3R2c29taDdy"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> <a href="mailto:adityakadamm1912@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 </div> <br/>
-👨‍💻 About Me<br>
-name: Aditya Kadam<br>
-role: AI Engineer<br>
-location: Pune, India<br>
-currently_learning: SQL, Python Libraries<br>
-ask_me_about: C, Python, HTML, CSS, JavaScript<br>
-fun_fact: Exploring tech and creativity ✨<br>
-🌱 I'm currently learning SQL & Python Libraries<br>
-👯 I'm looking to collaborate on open-source projects<br>
-💬 Ask me about C, Python, HTML, CSS, JavaScript<br>
-📫 How to reach me: adityakadamm1912@gmail.com<br>
-⚡ Fun fact: Exploring tech and creativity<br>
+## 👨‍💻 About Me
+
+```yaml
+name: Aditya Kadam
+role: AI Engineer
+location: Pune, India
+currently_learning: SQL, Python Libraries
+ask_me_about: C, Python, HTML, CSS, JavaScript
+```
+
+- 🌱 I'm currently learning **SQL & Python Libraries**
+- 👯 I'm looking to collaborate on **open-source projects**
+- 💬 Ask me about **C, Python, HTML, CSS, JavaScript**
+- 📫 How to reach me: [adityakadamm1912@gmail.com](mailto:adityakadamm1912@gmail.com)
+- ⚡ Fun fact: Exploring tech and creativity
 <br/>
 🛠️ Tech Stack
 <div align="center">
