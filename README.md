@@ -4,7 +4,6 @@
 
 </div> <br/>
 👨‍💻 About Me
-yaml
 name: Aditya Kadam
 role: AI Engineer
 location: Pune, India
