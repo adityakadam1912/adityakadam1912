@@ -36,7 +36,7 @@ Currently Learning
 🐍 Contribution Snake
 <div align="center"> <img src="https://raw.githubusercontent.com/adityakadam1912/adityakadam1912/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%"/> </div> <br/>
 📈 Contribution Graph
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityakadam1912&bg_color=0d1117&color=2575fc&line=6a11cb&point=ffffff&theme=react-dark" width="100%"/> </div> <br/>
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityakadam&bg_color=0d1117&color=2575fc&line=6a11cb&point=ffffff&theme=react-dark" width="100%"/> </div> <br/>
 🤝 Connect With Me
 <div align="center">
 
